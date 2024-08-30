@@ -1,5 +1,8 @@
 # NAC Core Website
 
+[![Nac CORE Logo]([https://img.itch.zone/aW1nLzE0NTcxNzg5LnBuZw==/original/bzids3.png](https://raw.githubusercontent.com/JacobUH/NAC-CORE-WEBSITE/main/images/naccorelogo.png?token=GHSAT0AAAAAACVWD6RGTYL7W67DP7L4MA3CZWRUWZA))](https://www.facebook.com/NacogdochesCore)
+
+
 Welcome to the NAC Core website repository! This project serves as the official site for NAC Core, a student-led organization dedicated to reducing feline overpopulation through Trap-Neuter-Return (TNR) and community education. The site is designed to inform the public about our mission, upcoming events, and ways to get involved or donate.
 
 ## Table of Contents
