@@ -2,7 +2,6 @@
 
 [![Nac CORE Logo](https://raw.githubusercontent.com/JacobUH/NAC-CORE-WEBSITE/main/images/naccorelogo.png)](https://www.facebook.com/NacogdochesCore)
 
-
 Welcome to the NAC Core website repository! This project serves as the official site for NAC Core, a student-led organization dedicated to reducing feline overpopulation through Trap-Neuter-Return (TNR) and community education. The site is designed to inform the public about our mission, upcoming events, and ways to get involved or donate.
 
 ## Table of Contents
@@ -29,25 +28,13 @@ The NAC Core website is built to provide a central hub for announcements, event 
 ```
 nac-core-website/
 │
-├── index.html               # The main homepage
-├── about.html               # About page
-├── contact.html             # Contact page
-├── events.html              # Events page
-│
-├── css/
-│   ├── main.css             # Main stylesheet
-│   ├── responsive.css       # Responsive design stylesheet
-│
-├── images/
-│   ├── naccorelogo.png      # Organization logo
-│   ├── bg02.png             # Background image
-│   ├── outreach.jpg         # Outreach image
-│   └── ...                  # Other images
-│
-├── js/
-│   ├── main.js              # Main JavaScript file
-│
-└── README.md                # This file
+├── index.html              # Home Page
+├── TNR.html                # Trap-Neuter-Release Page (Initatives)
+├── studentOutreach.html    # Student Outrach Page (Initatives)
+├── animalClinics.html      # Animal Clinics Page (Initatives)
+├── goals.html              # Goals Page (Initatives)
+├── founders.html           # About page
+└── gallery.html            # Contact page
 ```
 
 ## Contact
@@ -58,4 +45,3 @@ If you have any questions or would like to get involved with NAC Core, please re
 - **Phone:** (832) 847-1610
 - **Instagram:** [sfanaccore](https://www.instagram.com/sfanaccore/)
 - **Facebook:** [NacogdochesCore](https://www.facebook.com/NacogdochesCore)
-
